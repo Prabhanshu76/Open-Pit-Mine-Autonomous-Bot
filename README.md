@@ -29,7 +29,7 @@ Hardware Requirements
 
 ![Demo](Images/Demo.gif)
 
-----------UI----------------
+---------- User Interface ----------------
 ![UI](Images/UI1.png)
 
 ![UI](Images/UI2.png)
