@@ -6,7 +6,7 @@ Demo
 UI
 ![UI](Images/UI1.png)
 
-![UI](Images/UI12.png)
+![UI](Images/UI2.png)
 
 ![UI](Images/UI3.png)
 
