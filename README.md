@@ -28,10 +28,10 @@ Hardware Requirements
 
 
 
-Demo
+----------Demo--------------
 ![Demo](Images/Demo.gif)
 
-UI
+----------UI----------------
 ![UI](Images/UI1.png)
 
 ![UI](Images/UI2.png)
