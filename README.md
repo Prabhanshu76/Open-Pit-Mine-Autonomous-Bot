@@ -1,5 +1,9 @@
 # Open Pit Mine Autonomous Bot
 
+The project was focused on developing an unmanned ground vehicle for working in the envi-
+ronment of open - pit mines.
+
+
 Demo
 ![Demo](Images/Demo.gif)
 
