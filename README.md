@@ -27,8 +27,6 @@ Hardware Requirements
 
 
 
-
-----------Demo--------------
 ![Demo](Images/Demo.gif)
 
 ----------UI----------------
